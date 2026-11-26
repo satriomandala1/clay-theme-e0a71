@@ -6199,7 +6199,7 @@ fs-exists-cached@1.0.0, fs-exists-cached@^1.0.0:
   resolved "https://registry.yarnpkg.com/fs-exists-cached/-/fs-exists-cached-1.0.0.tgz#cf25554ca050dc49ae6656b41de42258989dcbce"
   integrity sha512-kSxoARUDn4F2RPXX48UXnaFKwVU7Ivd/6qpzZL29MCDmr9sTvybv4gFCp+qaI4fM9m0z9fgz/yJvi56GAz+BZg==
 
-fs-extra@^11.0.0, fs-extra@^11.1.0, fs-extra@^11.1.1, fs-extra@^11.2.0:
+fs-extra@^11.0.0, fs-extra@^11.1.0, fs-extra@^11.2.0:
   version "11.2.0"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.2.0.tgz#e70e17dfad64232287d01929399e0ea7c86b0e5b"
   integrity sha512-PmDi3uwK5nFuXh7XDTlVnS17xJS7vW36is2+w3xcv8SVxiB4NyATf4ctkVY5bkSjX0Y4nbvZCq1/EjtEyr9ktw==
@@ -6690,10 +6690,10 @@ gatsby-remark-responsive-iframe@^6.13.2:
     lodash "^4.17.21"
     unist-util-visit "^2.0.3"
 
-gatsby-remark-smartypants@^6.14.0:
-  version "6.14.0"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-smartypants/-/gatsby-remark-smartypants-6.14.0.tgz#04e8ccb6be9e1e0131d0e2279e58a7acf70003c1"
-  integrity sha512-MqY3deC3vKoaVeRQfOWdX/9/tWAqz04+BFZkeKLrnOkALpVGagU4qpI7Kn1YldiP2Q0VcpN3l2yzvQrDh8hcwA==
+gatsby-remark-smartypants@^6.16.0:
+  version "6.16.0"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-smartypants/-/gatsby-remark-smartypants-6.16.0.tgz#4826f9ded0ea42e8e54c84731664454133066e96"
+  integrity sha512-qzJoQuNKmwebMrGgW2RkRpA1VxyxGDhS1KUGXZH1tDGO2FyYjpVEaL7FPmJRT7Lpsc4072/g+wFY/l26g7Y39w==
   dependencies:
     "@babel/runtime" "^7.20.13"
     retext "^7.0.1"
